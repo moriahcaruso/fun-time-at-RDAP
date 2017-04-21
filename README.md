@@ -1,2 +1,2 @@
-# fun-time-at-RDAP
+# funtime at RDAP
 Modules for fun at RDAP
